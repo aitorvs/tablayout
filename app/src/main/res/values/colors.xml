@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Blue 500 -->
+    <color name="primary">#2196F3</color>
+    <!-- Blue 700 -->
+    <color name="primary_dark">#1976D2</color>
+    <!-- Orange A700 -->
+    <color name="accent">#FF6D00</color>
+
+    <color name="tab_indicator">#03A9F4</color>
+
+    <!-- Color of the background -->
+    <color name="window_background">@android:color/white</color>
+</resources>
