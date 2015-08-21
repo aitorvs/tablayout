@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Football Buddy</string>
+    <string name="app_name">TabLayout</string>
     <string name="title_activity_main">MainActivity</string>
 
     <string name="action_settings">Settings</string>

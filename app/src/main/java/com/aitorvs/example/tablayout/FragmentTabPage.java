@@ -1,4 +1,4 @@
-package com.aitorvs.android.footballbuddy;
+package com.aitorvs.example.tablayout;
 
 import android.app.Activity;
 import android.net.Uri;
